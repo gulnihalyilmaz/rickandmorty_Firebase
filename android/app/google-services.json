@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012756172718",
+    "project_id": "rickandmorty-a830e",
+    "storage_bucket": "rickandmorty-a830e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012756172718:android:9b3453f087c668de63c23f",
+        "android_client_info": {
+          "package_name": "com.example.rick_and_morty_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8H3P8bnwwhoSw5YgbI-x1bjnrofmLTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
